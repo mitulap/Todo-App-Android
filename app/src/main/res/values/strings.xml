@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="due_date">Due Date</string>
+</resources>
